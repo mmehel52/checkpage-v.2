@@ -1,7 +1,7 @@
 # checkpage-v.2
 💻 In this project I built up same project with shorter code. I used mainly JS-DOM capturing. You can see visual demo of the website below. The objective is to build out real checkout page of e-commerce website.
 
- [👍click here to see page]()
+ [👍click here to see page](https://mmehel52.github.io/checkpage-v.2/)
  
 ## Demo
 <img src="https://github.com/mmehel52/checkout-page/blob/main/img/ezgif.com-gif-maker.gif" width="900"/>
